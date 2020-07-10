@@ -1,6 +1,6 @@
 ### 👋🌎
 
-- 🔭 I’m currently working on building @workos-inc
+- 🔭 I’m currently working on building [@workos-inc](https://github.com/workos-inc)
 - 🌱 I’m currently learning Rails
 - 👯 I’m looking for ideas to collaborate on...
 - 🤔 I’m looking for help with Lisp
